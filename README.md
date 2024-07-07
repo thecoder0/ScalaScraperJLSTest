@@ -4,5 +4,5 @@
 #### Output of topological ordering:
 
 <p align="center">
-  <img src="https://github.com/thecoder0/ScalaScraperTest/assets/80550575/b0242bd6-719f-42ce-85ca-abffc80d002e" alt="topologicalOrderGraph">
+  <img src = "https://github.com/thecoder0/ScalaScraperJLSTest/assets/80550575/ab00e1ae-9b6d-47fe-8f35-748f4cae81dc"
 </p>
